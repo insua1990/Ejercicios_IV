@@ -83,7 +83,7 @@ a)
 
 b)
 ** Contenido del fichero : **
-#!/usr/bin/env python
+ #!/usr/bin/env python
 print "Hello World!!"
 
 > root@insua-HP-Pavilion-g6-Notebook-PC:/home/insua/Escritorio# python holamundo.py
